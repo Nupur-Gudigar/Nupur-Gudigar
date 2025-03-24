@@ -1,6 +1,6 @@
-## Hi there 👋
+![chromedino](https://github.com/user-attachments/assets/7620c747-753f-4d12-939d-37e4a5b5d9b6)
 
-<iframe src="https://chromedino.com" width="800" height="300"></iframe>
+
 
 <!--
 **Nupur-Gudigar/Nupur-Gudigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
