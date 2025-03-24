@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/Platane/snk/svg-only?v=3&user=Nupur-Gudigar&repo=Nupur-Gudigar&branch=main&theme=dark" alt="Dinosaur Game" />
+<iframe src="https://chromedino.com" width="800" height="300"></iframe>
 
 <!--
 **Nupur-Gudigar/Nupur-Gudigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
