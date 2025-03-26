@@ -6,6 +6,10 @@ Hello!
 
 ![snake gif](https://github.com/Nupur-Gudigar/Nupur-Gudigar/blob/output/github-snake-dark.svg)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@novana/30-nites-of-code)  
+  ![@novana #30NitesOfCode](https://www.codedex.io/api/petStatus?user=novana)
+
 <!--
 **Nupur-Gudigar/Nupur-Gudigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
