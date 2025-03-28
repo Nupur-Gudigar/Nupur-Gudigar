@@ -1,3 +1,5 @@
+[![Image of https://github.com/Nupur-Gudigar/my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter)
+
 Hello there! I'm just your friendly neighborhood CS Grad student, out here trying to master coding before the robots take over. 
 
 ![hmusicruof4-rowley (1)](https://github.com/user-attachments/assets/b952cdd1-e1a4-45a3-a6a1-ecb7c7ce1394)
