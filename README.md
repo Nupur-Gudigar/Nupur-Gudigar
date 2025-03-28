@@ -1,4 +1,4 @@
-Hello!
+Hello there! I'm just your friendly neighborhood CS Grad student, out here trying to master coding before the robots take over. 
 
 ![hmusicruof4-rowley (1)](https://github.com/user-attachments/assets/b952cdd1-e1a4-45a3-a6a1-ecb7c7ce1394)
 
