@@ -8,7 +8,7 @@ Hello there! I'm just your friendly neighborhood CS Grad student, out here tryin
 
 ![snake gif](https://github.com/Nupur-Gudigar/Nupur-Gudigar/blob/output/github-snake-dark.svg)
 
-  ![@novana #30NitesOfCode](https://www.codedex.io/api/petStatus?user=novana)
+ 
 
 <!--
 **Nupur-Gudigar/Nupur-Gudigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ![@novana #30NitesOfCode](https://www.codedex.io/api/petStatus?user=novana)
 -->
 
