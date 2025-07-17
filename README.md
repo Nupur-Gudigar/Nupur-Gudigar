@@ -4,7 +4,7 @@ Hello there! I'm just your friendly neighborhood CS Grad student, out here tryin
 
 ![hmusicruof4-rowley (1)](https://github.com/user-attachments/assets/b952cdd1-e1a4-45a3-a6a1-ecb7c7ce1394)
 
-
+![@novana #30NitesOfCode](https://www.codedex.io/api/petStatus?user=novana)
 
 ![snake gif](https://github.com/Nupur-Gudigar/Nupur-Gudigar/blob/output/github-snake-dark.svg)
 
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- ![@novana #30NitesOfCode](https://www.codedex.io/api/petStatus?user=novana)
+ 
 -->
 
