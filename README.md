@@ -1,6 +1,6 @@
 [![Image of https://github.com/Nupur-Gudigar/my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter)
 
-Hello there! I'm just your friendly neighborhood CS Grad student, out here trying to master coding before the robots take over. 
+<h2>Hello there! <br>Just your average coder, out here trying to master coding before the robots take over. 👋</h2> 
 
 <p align = "center">
 <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBjYmgweHBzcTFzd2R1eG16OGptd3JzaTdwcTVtaDlmcjdpenlwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif">
