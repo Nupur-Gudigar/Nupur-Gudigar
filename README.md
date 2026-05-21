@@ -1,29 +1,15 @@
 [![Image of https://github.com/Nupur-Gudigar/my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter)
 
-<h2>Just your friendly neighborhood coder, out here trying to master coding before the robots take over. 👋</h2> 
+## hi, i'm 𝓃𝓊𝓅𝓊𝓇. your friendly neighborhood nerd. 💗💌
 
-<p align = "center">
-<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBjYmgweHBzcTFzd2R1eG16OGptd3JzaTdwcTVtaDlmcjdpenlwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif">
-</p>
+<img align="right" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBjYmgweHBzcTFzd2R1eG16OGptd3JzaTdwcTVtaDlmcjdpenlwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif"/>
 
+I'm a data analyst, data engineer and a little bit of a data scientist, but I also design UIs for fun on Figma.
+
+I build serious projects but also silly ones that get featured. I have a range, guys!
+
+`Data Analytics Professional` • `UI Designer` • `Pipeline Wrangler` • `Creative Coder` • `Skater` • `Knitter` • `Gamer`
 
 ![snake gif](https://github.com/Nupur-Gudigar/Nupur-Gudigar/blob/output/github-snake-dark.svg)
 
- 
-
-<!--
-**Nupur-Gudigar/Nupur-Gudigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![hmusicruof4-rowley (1)](https://github.com/user-attachments/assets/b952cdd1-e1a4-45a3-a6a1-ecb7c7ce1394)
-Here are some ideas to get you started:
-![chromedino](https://github.com/user-attachments/assets/7620c747-753f-4d12-939d-37e4a5b5d9b6)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- ![@novana #30NitesOfCode](https://www.codedex.io/api/petStatus?user=novana)
--->
-
+Check out my pinned repos below, I'm pretty proud of them! 👇
