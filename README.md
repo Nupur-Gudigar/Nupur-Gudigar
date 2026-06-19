@@ -10,6 +10,6 @@ I build serious projects but also silly ones that get featured. I have a range, 
 
 `Data Analytics Professional` • `AI Engineer` • `UI Designer` • `Pipeline Wrangler` • `Creative Coder` • `Skater` • `Knitter` • `Gamer`
 
-![snake gif](https://github.com/Nupur-Gudigar/Nupur-Gudigar/blob/output/github-snake-dark.svg)
+<!------![snake gif](https://github.com/Nupur-Gudigar/Nupur-Gudigar/blob/output/github-snake-dark.svg) --->
 
 Check out my pinned repos below, I'm pretty proud of them! 👇
